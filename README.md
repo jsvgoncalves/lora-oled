@@ -13,4 +13,4 @@ https://github.com/espressif/arduino-esp32
 Using this OLED lib:
 https://github.com/ThingPulse/esp8266-oled-ssd1306#text-operations
 
-
+![pins](https://github.com/jsvgoncalves/lora-oled/blob/master/docs/pins.jpg)
